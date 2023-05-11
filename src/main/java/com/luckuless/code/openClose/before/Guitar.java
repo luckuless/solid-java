@@ -5,6 +5,9 @@ public class Guitar {
     String make;
     String volume;
 
+    // Adding flame colour to guitar
+    String flameColour;
+
     // Constructors setters and getters
     
 }
