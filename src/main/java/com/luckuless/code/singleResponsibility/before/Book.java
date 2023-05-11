@@ -15,4 +15,12 @@ public class Book {
     public boolean isWordInSynopsys(String word){
         return synopsys.contains(word);
     }
+
+    public void bookPrinterPDF() {
+        // print Book in PDF format
+    }
+
+    public void bookPrinterColor() {
+        // print Book using color printer
+    }
 }
